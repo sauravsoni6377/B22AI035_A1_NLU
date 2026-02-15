@@ -51,7 +51,6 @@ Evaluated using **stratified 5-fold cross-validation** on a curated dataset of *
 ├── classifier.py        # Single-file classifier with embedded dataset
 ├── requirements.txt     # Python dependencies
 ├── B22AI035_prob4.pdf   # Detailed report (8 pages)
-├── B22AI035_prob4.tex   # LaTeX source for the report
 └── README.md            # This file
 ```
 
@@ -129,4 +128,4 @@ The detailed report (`B22AI035_prob4.pdf`) covers:
 
 ## License
 
-This project is part of an academic assignment for CSL 7640 at IIT Jodhpur.
+This is part of an academic assignment for CSL 7640 at IIT Jodhpur.
